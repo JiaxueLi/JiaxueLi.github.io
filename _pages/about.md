@@ -29,6 +29,62 @@ remote sensing data, and machine learning.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
+**2025**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/TGRS2025_SASP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Seam-Adaptive Structure-Preserving Image Stitching for Drone Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10793400)
+
+**Jiaxue Li** and Yicong Zhou
+
+- Taking advantages of the quaternion representation
+of the color image, this paper proposes a quaternion perceptual seamline detection model to generate the seamline in
+the quaternion domain. It considers seamline detection as a
+quaternion-domain color image labeling problem and minimizes
+the local-area quaternion perceptual difference cost to obtain
+the optimal seamline. To assess seamline quality effectively,
+we develop a quaternion perceptual seamline quality measure.
+Based on the proposed quaternion perceptual seamline detection
+model and quality measure, we further propose a general framework for automatic quaternion-domain color image stitching
+(AQCIS). To the best of our knowledge, this is the first attempt
+to perform color image stitching completely in the quaternion
+domain. Meanwhile, AQCIS introduces the joint optimization
+strategy of local alignment and seamline in an iterative fashion.
+Extensive experiments on challenging datasets demonstrate that
+our AQCIS achieves superior performance for color image
+stitching in comparison with state-of-the-art methods.
+</div>
+</div>
+
+**2024**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/TIP2024_AQCIS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automatic Quaternion-Domain Color Image Stitching](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10430121)
+
+**Jiaxue Li** and Yicong Zhou
+
+- Drones have been widely used for remote sensing
+applications. To perform high-quality drone image stitching, this
+article first proposes a local and global structure-preserving
+alignment (LGSPA) method that aligns drone images from local
+dual feature-based and global pixel-based alignment perspectives,
+while maintaining local linear and global collinear image structures. To enable an optimal image stitching performance, we then
+propose a seam-adaptive weighting (SAW) scheme to enhance
+the local alignment accuracy under the guidance of a seam
+prior. On the ground of LGSPA and SAW, we further develop
+a seam-adaptive structure-preserving (SASP) image stitching
+framework to generate the final stitched drone images. Both
+qualitative and quantitative experimental results demonstrate
+that LGSPA and SASP are capable of generating higher quality
+alignment and stitching results than several state-of-the-art
+methods over multiple challenging aerial scenarios, including low
+textures, repetitive textures, large parallax, wide baseline, and
+occlusions.
+</div>
+</div>
 
 **2022**
 
@@ -53,18 +109,3 @@ datasets demonstrate that the proposed ACIS-QR1A is able
 to obtain high-quality stitched images under several difficult scenarios including large parallax, low textures, moving objects, large occlusions or/and their combinations.
 </div>
 </div>
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
