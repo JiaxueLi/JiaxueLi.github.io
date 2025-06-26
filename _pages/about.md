@@ -30,19 +30,29 @@ remote sensing data, and machine learning.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+**2022**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/CVPR2022_QR1A.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Automatic Color Image Stitching Using Quaternion Rank-1 Alignment](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Automatic_Color_Image_Stitching_Using_Quaternion_Rank-1_Alignment_CVPR_2022_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jiaxue Li** and Yicong Zhou
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Color image stitching is a challenging task in real-world
+applications. This paper first proposes a quaternion rank1 alignment (QR1A) model for high-precision color image
+alignment. To solve the optimization problem of QR1A, we
+develop a nested iterative algorithm under the framework of
+complex-valued alternating direction method of multipliers.
+To quantitatively evaluate image stitching performance, we
+propose a perceptual seam quality (PSQ) measure to calculate misalignments of local regions along the seamline. Using QR1A and PSQ, we further propose an automatic color
+image stitching (ACIS-QR1A) framework. In this framework, the automatic strategy and iterative learning strategy
+are developed to simultaneously learn the optimal seamline
+and local alignment. Extensive experiments on challenging
+datasets demonstrate that the proposed ACIS-QR1A is able
+to obtain high-quality stitched images under several difficult scenarios including large parallax, low textures, moving objects, large occlusions or/and their combinations.
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
