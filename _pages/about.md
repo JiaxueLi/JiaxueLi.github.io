@@ -25,8 +25,9 @@ remote sensing data, and machine learning.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Geoscience and Remote Sensing. 
+- *2024.01*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Image Processing. 
+- *2022.03*: &nbsp;🎉🎉 One paper is accepted by CVPR2022. 
 
 # 📝 Publications 
 **2025**
